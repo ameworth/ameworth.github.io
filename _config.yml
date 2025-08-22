@@ -1,0 +1,9 @@
+title: My Jekyll Site
+description: A test blog with Jekyll
+remote_theme: kronik3r/daktilo
+
+# Optional: plugins (GitHub Pages supports a whitelist)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
