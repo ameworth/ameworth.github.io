@@ -12,7 +12,7 @@ sass:
 
 header_pages:
   - about.md
-  
+  - vitae.md
 # Optional: plugins (GitHub Pages supports a whitelist)
 plugins:
   - jekyll-feed
