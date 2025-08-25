@@ -1,6 +1,14 @@
-title: My Jekyll Site
-description: A test blog with Jekyll
-remote_theme: kronik3r/daktilo
+title: Archie Worth
+description: My personal homepage 
+theme: minima
+email: archieworth7@gmail.com
+github_username: ameworth
+
+# Stylesheet rubbish 
+sass:
+  sass_dir: _sass
+  style: compressed
+
 
 # Optional: plugins (GitHub Pages supports a whitelist)
 plugins:

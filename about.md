@@ -1,15 +1,16 @@
 ---
 
-layout: default
-
-title: About
+layout: page
 
 permalink : /about
 ---
 
-\# About page
 
+# About page
+3rd year student in mathematics with interest in logic, computability, and philosophy.
 
+# Contact
+UCL Email: <archie.worth.23@ucl.ac.uk>\\
+Personal Email: <archie.worth7@gmail.com>
 
-This page tells you a little bit about me.
 
