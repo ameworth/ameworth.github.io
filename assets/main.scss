@@ -35,6 +35,36 @@ dd {
   font-size: 18px;
 }
 
+.site-header .site-title {
+  font-family: 'Georgia', serif;
+  color: #FFEDD8;          // soft cream
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+  font-size: 2.5rem;
+}
+
+.site-nav a {
+  font-family: 'Arial', sans-serif;  // change font
+  font-size: 1rem;                   // adjust size
+  color: #FFEDD8 !important;                    // text color
+  background-color: rgba(0,0,0,0.3); // semi-transparent button background
+  padding: 0.5rem 1rem;              // spacing
+  border-radius: 5px;                 // rounded corners
+  text-decoration: none;              // remove underline
+  transition: background-color 0.3s, color 0.3s; // smooth hover effect
+}
+
+.site-nav a:hover {
+  background-color: rgba(255,255,255,0.5); // hover effect
+  color: #000000;
+}
+
+.site-header {
+  background-image: url('img/cezanne.jpg'); // adjust path
+  background-size: cover;      // makes it fill the header
+  background-position: center; // centers the image
+  background-repeat: no-repeat;
+}
+
 /* colors */
 header.site-header {
   border-top-color: #09347A;

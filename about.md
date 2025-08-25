@@ -1,12 +1,11 @@
 ---
-
 layout: page
-
-permalink : /about
+permalink: /about
+nav_order: 2
 ---
 
 
-# About page
+# About
 3rd year student in mathematics with interest in logic, computability, and philosophy.
 
 # Contact
