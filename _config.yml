@@ -10,7 +10,9 @@ sass:
   sass_dir: _sass
   style: compressed
 
-
+header_pages:
+  - about.md
+  
 # Optional: plugins (GitHub Pages supports a whitelist)
 plugins:
   - jekyll-feed
