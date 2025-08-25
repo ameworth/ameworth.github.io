@@ -13,7 +13,7 @@ UCL Email: <archie.worth.23@ucl.ac.uk>\\
 Personal Email: <archie.worth7@gmail.com>
 
 <img style="float:bottom; margin-bottom:10px; width:300px; height:auto;"
-     src="{{ site.baseurl }}/assets/img/cwoffee.jpg" 
+     src="{{ site.baseurl }}/assets/img/cwoffee.JPG" 
      alt="Cwoffee" 
      class="bottom-img"
 />
