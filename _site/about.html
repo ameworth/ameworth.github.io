@@ -54,31 +54,35 @@
 
   <div class="post-content">
     <h1 id="about">About</h1>
-<p>3rd year student at UCL in mathematics with interest in logic, computability, and philosophy. I’m looking to do eventually do a PhD in mathematical logic. I basically like anything complex, but also am a big fan of beer, midwest-emo music, and cycling. Here is the last 5 songs I’ve listened to:</p>
+<p>3rd year student at UCL in mathematics with interest in logic, computability, and philosophy. I’m looking to do eventually do a PhD in mathematical logic. I basically like anything complex, but also am a big fan of beer, midwest-emo music, and cycling. Here are my top 5 songs in the last 3 months:</p>
 
-<div id="lastfm-tracks">Loading…</div>
+<h3 id="-my-top-5-songs-last-3-months">🎵 My Top 5 Songs (Last 3 Months)</h3>
+
+<div id="top-tracks">Loading...</div>
 
 <script>
-const apiKey = "503ee6ce06f4bf25df8dac6f986aac51";   // replace with your API key
-const user   = "hamtser";  // replace with your Last.fm username
+  const apiKey = "503ee6ce06f4bf25df8dac6f986aac51";  // replace with your key
+  const username = "hamtser"; // replace with your username
+  const url = `https://ws.audioscrobbler.com/2.0/?method=user.getTopTracks&user=${username}&period=3month&limit=5&api_key=${apiKey}&format=json`;
 
-fetch(`https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=${user}&limit=5&api_key=${apiKey}&format=json`)
-  .then(res => res.json())
-  .then(data => {
-    const tracks = data.recenttracks.track;
-    let html = "<ul>";
-    tracks.forEach(track => {
-      html += `<li>
-        <strong>${track.artist['#text']}</strong> — ${track.name}
-      </li>`;
+  fetch(url)
+    .then(response => response.json())
+    .then(data => {
+      const tracks = data.toptracks.track;
+      let html = "<ol>";
+      tracks.forEach(track => {
+        html += `<li>
+          <strong>${track.name}</strong> by ${track.artist.name} 
+          (${track.playcount} plays)
+        </li>`;
+      });
+      html += "</ol>";
+      document.getElementById("top-tracks").innerHTML = html;
+    })
+    .catch(error => {
+      document.getElementById("top-tracks").innerText = "Failed to load tracks 😢";
+      console.error(error);
     });
-    html += "</ul>";
-    document.getElementById("lastfm-tracks").innerHTML = html;
-  })
-  .catch(err => {
-    document.getElementById("lastfm-tracks").innerHTML = "⚠️ Failed to load Last.fm data.";
-    console.error(err);
-  });
 </script>
 
 <h1 id="contact">Contact</h1>
