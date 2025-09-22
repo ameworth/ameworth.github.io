@@ -8,3 +8,6 @@ permalink: /vitae
 ## Educational History
 **University College London** - BSc Mathematics, Predicted first class\\
 **John Mason School** - A Levels, A\*A\*A
+
+## Awards/Grants 
+**UKRI Funded Summer Studentship** - Supervisor Dr. Samuel Coskey. 
