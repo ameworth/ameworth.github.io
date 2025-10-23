@@ -12,7 +12,9 @@ nav_order: 1
 />
 
 <p>
-Welcome to my home page! 
+Welcome to my home page!
+</p>
 
+<p>
 I am looking to do a PhD in Mathematical Logic, if you know of any opportunities - please contact me!
 </p>

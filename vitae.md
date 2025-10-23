@@ -13,3 +13,4 @@ permalink: /vitae
 **UKRI Funded Summer Studentship** - Supervisor Dr. Samuel Coskey. 
 
 ## Talks/Presentations
+**STUK 17** - Presentation on computable Z-jump at Churchill College, Cambridge.
