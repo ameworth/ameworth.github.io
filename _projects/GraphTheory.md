@@ -1,8 +1,10 @@
 ---
 title: "Graph Theory Answers"
 layout: default
+description: "Answers to MATH0029 as taught by Dr. Antonio Girao"
+permalink: /graphtheory
 ---
-
+# Graph Theory Answers
 IN PROGRESS. 
 
 This document contains worked answers and notes corresponding to the lecture notes of
@@ -13,7 +15,9 @@ I’ve tried my best to check them all, but please note that these answers are n
 endorsed, so expect about ⌈n/2⌉ to be actually correct. Please email me with any mistakes
 you find. 
 
-<embed src="https://github.com/ameworth/Graph-Theory-Answers/blob/main/main.pdf" 
-       type="application/pdf" 
-       width="100%" 
-       height="800px" />
+[Answers!](https://github.com/ameworth/Graph-Theory-Answers/blob/main/main.pdf?raw=true)
+<iframe src="https://github.com/ameworth/Graph-Theory-Answers/blob/main/main.pdf"
+       type="application/pdf"
+       width="100%"
+       height="800px"></iframe>
+
