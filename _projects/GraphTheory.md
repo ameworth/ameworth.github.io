@@ -9,9 +9,9 @@ IN PROGRESS.
 
 This document contains worked answers and notes corresponding to the lecture notes of
 MATH0029: Graph Theory and Combinatorics, as taught by Dr. António Girão in 2025,
-written by a student taking the class. A lot of the answers given will focus more on getting the ‘spirit’ of the question correct, rather than stressing technical details of the proofs.\\
+written by a student taking the class. A lot of the answers given will focus more on getting the ‘spirit’ of the question correct, rather than stressing technical details of the proofs.<br/><br/>
 I’ve tried my best to check them all, but please note that these answers are not officially endorsed, so expect about ⌈n/2⌉ to be actually correct. Please email me with any mistakes
-you find. \\
+you find. <br/><br/>
 If you would like to contribute by helping fill in blank questions, please let me know!
 
 [Answers!](https://github.com/ameworth/Graph-Theory-Answers/blob/main/main.pdf?raw=true)
