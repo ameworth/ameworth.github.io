@@ -14,3 +14,11 @@ permalink: /vitae
 
 ## Talks/Presentations
 **STUK 17** - Presentation on computable Z-jump at Churchill College, Cambridge.
+
+
+
+<img style="float:right; margin-left:10px; width:300px; height:auto;"
+     src="{{ site.baseurl }}/assets/img/morning sunlight effect.jpg" 
+     alt="Painting" 
+     class="bottom-img"
+/>
