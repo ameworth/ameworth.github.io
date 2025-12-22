@@ -20,5 +20,5 @@ permalink: /vitae
 <img style="float:right; margin-left:10px; width:300px; height:auto;"
      src="{{ site.baseurl }}/assets/img/morning sunlight effect.jpg" 
      alt="Painting" 
-     class="bottom-img"
+     class="right-img"
 />
