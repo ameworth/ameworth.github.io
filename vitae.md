@@ -2,6 +2,7 @@
 layout: page
 nav_order: 3
 permalink: /vitae
+title: Vitae 
 ---
 
 
