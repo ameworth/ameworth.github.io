@@ -12,7 +12,7 @@ title: Vitae
      class="right-img"
 />
 
-<div style="clear: both;"></div>
+
 
 # Vitae
 ## Educational History
