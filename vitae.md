@@ -4,6 +4,12 @@ nav_order: 3
 permalink: /vitae
 ---
 
+<img style="float:right; margin-left:10px; width:300px; height:auto;"
+     src="{{ site.baseurl }}/assets/img/morning sunlight effect.jpg" 
+     alt="Painting" 
+     class="right-img"
+/>
+
 # Vitae
 ## Educational History
 **University College London** - BSc Mathematics, Predicted first class\\
@@ -17,8 +23,4 @@ permalink: /vitae
 
 
 
-<img style="float:right; margin-left:10px; width:300px; height:auto;"
-     src="{{ site.baseurl }}/assets/img/morning sunlight effect.jpg" 
-     alt="Painting" 
-     class="right-img"
-/>
+
