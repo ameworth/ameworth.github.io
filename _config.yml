@@ -23,6 +23,8 @@ plugins:
 collections:
   projects:
     output: true
+  ucl: 
+    output: true 
 
 defaults: 
     path: ""
