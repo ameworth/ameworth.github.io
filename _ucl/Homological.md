@@ -9,4 +9,4 @@ IN PROGRESS
 
 Some notes written for MATH0021, Homological Algebra as taught by Prof. FEA Johnson in 25/26. These notes focus on trying to capture the intuition behind the various definitions, propositions, and examples. I have also included the answers to various revision questions and courseworks as propositions within the text, where I thought it may be useful. Enjoy!
 
-[Notes!](https://github.com/ameworth/HomologicalNotes/blob/24dd50c4d0af24a5e1085a5c242c2b200eb1133d/main.pdf)
+[Notes!](https://github.com/ameworth/HomologicalNotes/blob/main/main.pdf?raw=true)
