@@ -6,7 +6,7 @@ nav_order: 1
 
 
 # About
-3rd year student at UCL in mathematics with interest in logic, computer science, and philosophy. I'm particularly interested in the arithmetic hierarchy, computability, and reverse mathematics, looking to eventually do a PhD in mathematical logic. I basically like anything complex, but also am a big fan of beer, midwest-emo music, and cycling. Here are my top 5 songs in the last 3 months: 
+ I am a Masters student in Pure Mathematics and Mathematical Logic at the University of Manchester, with interest in logic, computer science, and philosophy. Before that I did a BSc in Mathematics at UCL. I'm particularly interested in the arithmetic hierarchy, computability, and reverse mathematics. looking to eventually do a PhD in mathematical logic. I basically like anything complex, but also am a big fan of beer, midwest-emo music, and cycling. Here are my top 5 songs in the last 3 months: 
 
 
 ### 🎵 My Top 5 Songs (Last 3 Months)
